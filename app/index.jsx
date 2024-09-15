@@ -43,7 +43,7 @@ const WelcomeScreen = () => {
             entering={FadeInDown.delay(400).springify()}
             style={styles.title}
           >
-            Jala Hebron
+            Pixel
           </Animated.Text>
           <Animated.Text
             entering={FadeInDown.delay(500).springify()}
